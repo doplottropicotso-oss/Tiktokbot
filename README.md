@@ -4,9 +4,6 @@
 1. Установка и настройка
 Клонируйте репозиторий:
 
-git clone https://github.com/StounhandJ/shorts_forward
-cd shorts_forward
-Создайте файл окружения:
 
 cp .env.example .env
 nano .env
